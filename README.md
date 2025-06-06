@@ -9,11 +9,26 @@
 
 ---
 
-### 🛠️ Languages and Tools:
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,git,github,docker,figma" />
+  <!-- Python & Data Science -->
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn" alt="Python Stack" />
+  <img src="https://skillicons.dev/icons?i=excel" alt="Excel" />
+  <img src="https://skillicons.dev/icons?i=ml" alt="Machine Learning" />
+  <img src="https://skillicons.dev/icons?i=datascience" alt="Data Science" />
+
+  <!-- Web Development -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs,django,beautifulsoup" alt="Web Development" />
+
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=cpp,java,javascript" alt="Languages" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres" alt="Databases" />
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
 </p>
+
 
 ---
 
