@@ -24,7 +24,6 @@
 
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres" alt="Databases" />
-
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
 </p>
