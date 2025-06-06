@@ -20,10 +20,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs,django,beautifulsoup" alt="Web Development" />
 
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=cpp,java,javascript" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=cpp,javascript,python" alt="Languages" />
 
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
 </p>
