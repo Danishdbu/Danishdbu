@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danish</h1>
-<h3 align="center">A passionate Full Stack Python Developer </h3>
+<h3 align="center">A passionate Full Stack Python Developer and Data Science </h3>
 
 - 🔭 I’m currently working on **Nextjs**
 - 🌱 I’m currently learning **TypeScript, Nextjs, Machine Learning and Data Science **
