@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Danish</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Python Developer </h3>
 
-- 🔭 I’m currently working on **MERN Stack Projects**
-- 🌱 I’m currently learning **TypeScript, Docker, and Microservices**
+- 🔭 I’m currently working on **Nextjs**
+- 🌱 I’m currently learning **TypeScript, Nextjs, Machine Learning and Data Science **
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, JavaScript, MongoDB**
-- 📫 How to reach me: **your-email@example.com**
-- ⚡ Fun fact: I love clean code and caffeine ☕
+- 💬 Ask me about **Python, Machine Learning, React,Data Science, Data Analyst, Node.js, Nextjs, JavaScript, SQL**
+- 📫 How to reach me: **mohddanishdbu@gmail.com**
 
 ---
 
