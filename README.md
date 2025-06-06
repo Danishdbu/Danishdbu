@@ -83,4 +83,4 @@
 
 ### 📫 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/mohddanish04)
