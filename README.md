@@ -13,8 +13,9 @@
   <!-- Python & Data Science -->
   <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn" alt="Python Stack" />
   <img src="https://skillicons.dev/icons?i=excel" alt="Excel" />
-  <img src="https://skillicons.dev/icons?i=ml" alt="Machine Learning" />
-  <img src="https://skillicons.dev/icons?i=datascience" alt="Data Science" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn" alt="Machine Learning" />
+  <img src="https://skillicons.dev/icons?i=jupyter" alt="Data Science" />
+
 
   <!-- Web Development -->
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs,django,beautifulsoup" alt="Web Development" />
