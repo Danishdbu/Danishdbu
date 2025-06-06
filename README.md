@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on **Nextjs**
 - 🌱 I’m currently learning **TypeScript, Nextjs, Machine Learning and Data Science **
+- 👀 I’m interested in coding
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Python, Machine Learning, React, Data Science, Data Analyst, Node.js, Nextjs, JavaScript, SQL**
 - 📫 How to reach me: **mohddanishdbu@gmail.com**
