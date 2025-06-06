@@ -52,6 +52,8 @@
   <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+
 </p>
 
 
