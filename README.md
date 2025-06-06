@@ -11,10 +11,16 @@
 
 <p align="left">
   <!-- Python & Data Science -->
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn" alt="Python Stack" />
-  <img src="https://skillicons.dev/icons?i=excel" alt="Excel" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn" alt="Machine Learning" />
-  <img src="https://skillicons.dev/icons?i=jupyter" alt="Data Science" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python Stack" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Seaborn-49BEB7?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+
 
 
   <!-- Web Development -->
